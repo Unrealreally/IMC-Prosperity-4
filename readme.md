@@ -1,21 +1,3 @@
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td {
-  border: 1px solid #000000;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #f6a99f;
-}
-</style>
-
 # IMC Prosperity 4 — Participation and Ranking
 
 I and my teammate Sameer Sharma participated in IMC Prosperity 4 and we got to the final round 5 and achieved the rank:
